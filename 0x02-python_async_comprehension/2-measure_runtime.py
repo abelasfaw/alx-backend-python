@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 '''parallel execution using gather'''
 import asyncio
 import time
